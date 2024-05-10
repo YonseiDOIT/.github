@@ -1,2 +1,3 @@
-# .github
-YonseiDOIT Overview
+# Yonsei DO IT에 오신 것을 환영합니다!
+
+저희는 연세대학교 미래캠퍼스에서 DO IT이라는 창업개발동아리입니다
